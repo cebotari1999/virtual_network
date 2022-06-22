@@ -1,3 +1,6 @@
+   
+   To run file you have to install Cisco Packet Tracer 6.2.
+   
     Subnetting
   
 The configuration of virtual network start with subnetting. 
