@@ -21,7 +21,7 @@ conectivity in local network;
     Inter-VLAN routing
     
 - The routers was configured;
-- The Green and Blue zones was configured as Router on Stick;
+- The Green and Blue zones have Router on a Stick configuration;
 
       Routers connectivity
 - GR1, BR1, YR1, YR2 - are in first VLAN;
